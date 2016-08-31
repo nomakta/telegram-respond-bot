@@ -1,0 +1,15 @@
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\bin\Debug\Respond bot.exe.config
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\bin\Debug\Respond bot.exe
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\bin\Debug\Respond bot.pdb
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\bin\Debug\Newtonsoft.Json.dll
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\bin\Debug\Telegram.Bot.dll
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\bin\Debug\Newtonsoft.Json.xml
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\bin\Debug\Telegram.Bot.xml
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\obj\Debug\Respond bot.csprojResolveAssemblyReference.cache
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\obj\Debug\Respond_bot.MainForm.resources
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\obj\Debug\Respond_bot.Properties.Resources.resources
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\obj\Debug\Respond bot.csproj.GenerateResource.Cache
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\obj\Debug\Respond bot.exe
+c:\users\the gibson\documents\visual studio 2015\Projects\Respond bot\Respond bot\obj\Debug\Respond bot.pdb
